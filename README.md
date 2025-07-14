@@ -1,4 +1,7 @@
 # sek4.com
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d993294-d370-4d59-8783-33ae2d65dc4b/deploy-status)](https://app.netlify.com/projects/sek4/deploys)
+
 **Secure for Ideas.**
 
 Welcome to sek4.com – a colourful corner of the web for cyber security experiments, self-hosted tools, and personal projects.

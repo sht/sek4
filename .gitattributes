@@ -1,8 +1,5 @@
 # Prevent GitHub from treating HTML files as documentation
 *.html linguist-documentation=false
 
-# Optionally, if you want to exclude HTML files from language statistics entirely
-# *.html linguist-vendored=true
-
-# If you have specific HTML files that should be treated differently, you can specify them individually
-# templates/*.html linguist-documentation=false
+# Exclude HTML files from language statistics entirely
+*.html linguist-vendored=true
